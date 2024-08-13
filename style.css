@@ -16,7 +16,7 @@ html {
   --bg-color: #080808;
   --second-bg-color: #001005;
   --text-color: white;
-  --main-color: #00ff51;
+  --main-color: #0044ff;
 }
 body{
   background: var(--bg-color);
@@ -103,7 +103,7 @@ line-height:1.8;
 }
 
 .home-img img{
-  width: 32vw;
+  width: 20vw;
   border-radius:50%;
   box-shadow: 0 0 25px var(--main-color);
   transition: .4s ease-in-out;
@@ -174,7 +174,7 @@ color: black;
   background-color: var(--second-bg-color);
 }
 .about-img img{
-  width: 32vw;
+  width: 25vw;
   border-radius: 50%;
   box-shadow: 0 0 25px var(--main-color);
   transition: 0.4s ease-in-out;
